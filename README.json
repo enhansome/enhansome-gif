@@ -14,7 +14,7 @@
             "last_commit": "2026-06-17T02:52:51Z",
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5596
+            "stars": 5597
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-27T23:40:51Z",
             "owner": "spite",
             "repo": "ccapture.js",
-            "stars": 3761
+            "stars": 3763
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2021-08-13T16:19:41Z",
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1441
+            "stars": 1442
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-09-10T22:20:29Z",
             "owner": "notnullnotvoid",
             "repo": "msf_gif",
-            "stars": 237
+            "stars": 236
           }
         }
       ],
@@ -247,7 +247,7 @@
             "last_commit": "2023-10-06T08:25:46Z",
             "owner": "jnordberg",
             "repo": "gif.js",
-            "stars": 4970
+            "stars": 4969
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2019-07-31T14:05:33Z",
             "owner": "deanm",
             "repo": "omggif",
-            "stars": 744
+            "stars": 743
           }
         },
         {
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:16:32.379Z",
+    "last_updated": "2026-08-15T13:32:06.993Z",
     "original_repository": "davisonio/awesome-gif",
     "original_repository_sha": "42a6bdbef0f8b0e4107839adcf13b32d2259e194",
     "enhanced_repository": "enhansome/enhansome-gif",
