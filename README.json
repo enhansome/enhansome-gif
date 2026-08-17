@@ -84,7 +84,7 @@
             "last_commit": "2023-01-22T12:21:49Z",
             "owner": "lukechilds",
             "repo": "gifgen",
-            "stars": 565
+            "stars": 566
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2021-05-31T18:57:27Z",
             "owner": "eugeneware",
             "repo": "gifencoder",
-            "stars": 477
+            "stars": 476
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2025-08-17T07:20:07Z",
             "owner": "kaishin",
             "repo": "Gifu",
-            "stars": 3213
+            "stars": 3214
           }
         },
         {
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:32:43.350Z",
+    "last_updated": "2026-08-17T13:40:46.015Z",
     "original_repository": "davisonio/awesome-gif",
     "original_repository_sha": "42a6bdbef0f8b0e4107839adcf13b32d2259e194",
     "enhanced_repository": "enhansome/enhansome-gif",
