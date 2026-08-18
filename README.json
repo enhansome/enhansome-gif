@@ -14,7 +14,7 @@
             "last_commit": "2026-06-17T02:52:51Z",
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5598
+            "stars": 5599
           }
         },
         {
@@ -247,7 +247,7 @@
             "last_commit": "2023-10-06T08:25:46Z",
             "owner": "jnordberg",
             "repo": "gif.js",
-            "stars": 4969
+            "stars": 4971
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2019-08-30T15:36:31Z",
             "owner": "krasimir",
             "repo": "gifffer",
-            "stars": 780
+            "stars": 779
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2024-12-18T21:41:53Z",
             "owner": "alexiscreuzot",
             "repo": "SwiftyGif",
-            "stars": 2279
+            "stars": 2280
           }
         }
       ],
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:40:46.015Z",
+    "last_updated": "2026-08-18T13:43:55.528Z",
     "original_repository": "davisonio/awesome-gif",
     "original_repository_sha": "42a6bdbef0f8b0e4107839adcf13b32d2259e194",
     "enhanced_repository": "enhansome/enhansome-gif",

@@ -44,7 +44,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Utilities
 
-* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,598 | 🐛 36 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
+* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,599 | 🐛 36 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
 * [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,763 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-27 - Capture animations created with HTML5 canvas.
 * [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,442 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
 * [Screengif](https://github.com/dergachev/screengif) ⭐ 1,309 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
@@ -82,8 +82,8 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### JavaScript
 
-* [Gif.js](https://github.com/jnordberg/gif.js) ⭐ 4,969 | 🐛 94 | 🌐 JavaScript | 📅 2023-10-06 - Create GIF from the DOM.
-* [Gifffer](https://github.com/krasimir/gifffer) ⭐ 780 | 🐛 13 | 🌐 JavaScript | 📅 2019-08-30 - JavaScript library that prevents the autoplaying of the animated GIFs.
+* [Gif.js](https://github.com/jnordberg/gif.js) ⭐ 4,971 | 🐛 94 | 🌐 JavaScript | 📅 2023-10-06 - Create GIF from the DOM.
+* [Gifffer](https://github.com/krasimir/gifffer) ⭐ 779 | 🐛 13 | 🌐 JavaScript | 📅 2019-08-30 - JavaScript library that prevents the autoplaying of the animated GIFs.
 * [Omggif](https://github.com/deanm/omggif) ⭐ 743 | 🐛 0 | 🌐 JavaScript | 📅 2019-07-31 - GIF 89a encoder and decoder.
 * [Gifencoder](https://github.com/eugeneware/gifencoder) ⭐ 476 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-31 - Server side animated GIF generation for Node.js.
 * [Gifplayer](https://github.com/rubentd/gifplayer) ⭐ 461 | 🐛 22 | 🌐 JavaScript | 📅 2025-03-29 - JQuery plugin to play and stop animated GIFs.
@@ -97,12 +97,12 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Objective-C
 
-* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,948 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21 - GIF engine for iOS by FlipBoard.
+* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,949 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21 - GIF engine for iOS by FlipBoard.
 
 ### Swift
 
 * [Gifu](https://github.com/kaishin/gifu) ⭐ 3,214 | 🐛 28 | 🌐 Swift | 📅 2025-08-17 - Animated GIF support for iOS in Swift.
-* [SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif) ⭐ 2,279 | 🐛 10 | 🌐 Swift | 📅 2024-12-18 - High performance & easy to use Gif engine.
+* [SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif) ⭐ 2,280 | 🐛 10 | 🌐 Swift | 📅 2024-12-18 - High performance & easy to use Gif engine.
 
 ## GUI
 
@@ -297,7 +297,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 185,031 | 🐛 2,595 | 🌐 Python | 📅 2026-08-17
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 185,281 | 🐛 2,594 | 🌐 Python | 📅 2026-08-18
 
 ## Miscellaneous
 
@@ -314,8 +314,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 496,819 | 🐛 100 | 📅 2026-06-30 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 497,224 | 🐛 102 | 📅 2026-08-18 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
