@@ -44,9 +44,9 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Utilities
 
-* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,600 | 🐛 36 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
-* [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,763 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-27 - Capture animations created with HTML5 canvas.
-* [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,443 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
+* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,599 | 🐛 36 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
+* [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,764 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-27 - Capture animations created with HTML5 canvas.
+* [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,444 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
 * [Screengif](https://github.com/dergachev/screengif) ⭐ 1,309 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
 * [Gifify](https://github.com/jclem/gifify) ⭐ 1,138 | 🐛 5 | 🌐 Shell | 📅 2024-02-13 - Convert screen recording into GIF.
 * [Gifgen](https://github.com/lukechilds/gifgen) ⭐ 566 | 🐛 2 | 🌐 Shell | 📅 2023-01-22 - Simple high quality GIF encoding.
@@ -171,7 +171,7 @@ else # use crappy gif-algorithm from ffmpeg
 fi
 ```
 
-From [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo) ⭐ 2,110 | 🐛 14 | 🌐 Python | 📅 2022-07-20, [source](https://github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh) ⭐ 2,110 | 🐛 14 | 🌐 Python | 📅 2022-07-20
+From [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo) ⭐ 2,109 | 🐛 14 | 🌐 Python | 📅 2022-07-20, [source](https://github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh) ⭐ 2,109 | 🐛 14 | 🌐 Python | 📅 2022-07-20
 
 ### GIF to frames
 
@@ -297,7 +297,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 185,800 | 🐛 2,592 | 🌐 Python | 📅 2026-08-19
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 186,012 | 🐛 2,598 | 🌐 Python | 📅 2026-08-20
 
 ## Miscellaneous
 
@@ -314,8 +314,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 498,074 | 🐛 105 | 📅 2026-08-18 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 498,507 | 🐛 104 | 📅 2026-08-21 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
