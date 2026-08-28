@@ -15,8 +15,9 @@
             "last_commit": "2026-06-17T02:52:51Z",
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5611
-          }
+            "stars": 5612
+          },
+          "first_seen": "2026-08-28T22:55:46.366Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "spite",
             "repo": "ccapture.js",
             "stars": 3765
-          }
+          },
+          "first_seen": "2026-08-28T22:55:46.366Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "lettier",
             "repo": "gifcurry",
             "stars": 1444
-          }
+          },
+          "first_seen": "2026-08-28T22:55:46.366Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "dergachev",
             "repo": "screengif",
             "stars": 1309
-          }
+          },
+          "first_seen": "2026-08-28T22:55:46.366Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "jclem",
             "repo": "gifify",
             "stars": 1138
-          }
+          },
+          "first_seen": "2026-08-28T22:55:46.366Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "lukechilds",
             "repo": "gifgen",
             "stars": 565
-          }
+          },
+          "first_seen": "2026-08-28T22:55:46.366Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "z24",
             "repo": "tty2gif",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T22:55:46.366Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "takempf",
             "repo": "GIFit",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T22:55:46.366Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "zehfernandes",
             "repo": "gifline",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T22:55:46.366Z"
         }
       ],
       "title": "Utilities"
@@ -159,7 +168,8 @@
                 "owner": "charlietangora",
                 "repo": "gif-h",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "notnullnotvoid",
                 "repo": "msf_gif",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "XamlAnimatedGif",
                 "repo": "WpfAnimatedGif",
                 "stars": 685
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "XamlAnimatedGif",
                 "repo": "XamlAnimatedGif",
                 "stars": 471
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "mrousavy",
                 "repo": "AnimatedGif",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "Speiser",
                 "repo": "dot-screencap",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             }
           ],
           "description": null,
@@ -256,7 +271,8 @@
                 "owner": "snowkit",
                 "repo": "gif",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             }
           ],
           "description": null,
@@ -278,7 +294,8 @@
                 "owner": "koral--",
                 "repo": "android-gif-drawable",
                 "stars": 9648
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -293,7 +310,8 @@
                 "owner": "felipecsl",
                 "repo": "GifImageView",
                 "stars": 1169
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "nbadal",
                 "repo": "android-gif-encoder",
                 "stars": 347
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -323,7 +342,8 @@
                 "owner": "extrapixel",
                 "repo": "gif-animation",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             }
           ],
           "description": null,
@@ -345,7 +365,8 @@
                 "owner": "jnordberg",
                 "repo": "gif.js",
                 "stars": 4972
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -360,7 +381,8 @@
                 "owner": "krasimir",
                 "repo": "gifffer",
                 "stars": 779
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -375,7 +397,8 @@
                 "owner": "deanm",
                 "repo": "omggif",
                 "stars": 743
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "eugeneware",
                 "repo": "gifencoder",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -405,7 +429,8 @@
                 "owner": "rubentd",
                 "repo": "gifplayer",
                 "stars": 461
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -420,7 +445,8 @@
                 "owner": "tj",
                 "repo": "node-gify",
                 "stars": 300
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -435,7 +461,8 @@
                 "owner": "sole",
                 "repo": "Animated_GIF",
                 "stars": 228
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             }
           ],
           "description": null,
@@ -457,7 +484,8 @@
                 "owner": "Sybio",
                 "repo": "GifCreator",
                 "stars": 325
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -472,7 +500,8 @@
                 "owner": "Sybio",
                 "repo": "GifFrameExtractor",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             }
           ],
           "description": null,
@@ -494,7 +523,8 @@
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
                 "stars": 7949
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             }
           ],
           "description": null,
@@ -516,7 +546,8 @@
                 "owner": "kaishin",
                 "repo": "Gifu",
                 "stars": 3213
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             },
             {
               "node_type": "item",
@@ -531,7 +562,8 @@
                 "owner": "alexiscreuzot",
                 "repo": "SwiftyGif",
                 "stars": 2281
-              }
+              },
+              "first_seen": "2026-08-28T22:55:46.366Z"
             }
           ],
           "description": null,
@@ -543,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:51:40.263Z",
+    "last_updated": "2026-08-28T22:55:46.366Z",
     "original_repository_info": {
       "archived": false,
       "id": 79741499,
