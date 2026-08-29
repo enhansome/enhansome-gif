@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.",
+            "homepage": "https://gif.ski",
             "id": 109192133,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-17T02:52:51Z",
+            "open_issues": 36,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5612
+            "stars": 5613,
+            "topics": [
+              "gif",
+              "gif-animation",
+              "gif-creator",
+              "gifencoder",
+              "pngquant"
+            ]
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
         },
@@ -26,12 +37,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to capture canvas-based animations at a fixed framerate",
+            "homepage": null,
             "id": 5657854,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-27T23:40:51Z",
+            "open_issues": 0,
             "owner": "spite",
             "repo": "ccapture.js",
-            "stars": 3765
+            "stars": 3765,
+            "topics": [
+              "canvas",
+              "capture",
+              "ffmpeg",
+              "gif",
+              "javascript",
+              "jpg",
+              "png",
+              "video",
+              "webm"
+            ]
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
         },
@@ -42,12 +68,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 The open-source, Haskell-built video editor for GIF makers.",
+            "homepage": "https://lettier.github.io/gifcurry",
             "id": 49551977,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-08-13T16:19:41Z",
+            "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1444
+            "stars": 1444,
+            "topics": [
+              "animated-gifs",
+              "appimage",
+              "arch-linux",
+              "fedora",
+              "functional-programming",
+              "gif",
+              "gif-library",
+              "gif-maker",
+              "gifmaker",
+              "gifs",
+              "gstreamer",
+              "gtk",
+              "gui",
+              "haskell",
+              "imagemagick",
+              "linux",
+              "ubuntu",
+              "video",
+              "video-editing"
+            ]
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
         },
@@ -58,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create animated gif screencasts.",
+            "homepage": null,
             "id": 8320946,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2020-07-31T08:09:56Z",
+            "open_issues": 16,
             "owner": "dergachev",
             "repo": "screengif",
-            "stars": 1309
+            "stars": 1309,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
         },
@@ -74,12 +130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gifify turns movies into gifs.",
+            "homepage": null,
             "id": 8788466,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-02-13T02:00:14Z",
+            "open_issues": 5,
             "owner": "jclem",
             "repo": "gifify",
-            "stars": 1138
+            "stars": 1138,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
         },
@@ -90,12 +151,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple high quality GIF encoding",
+            "homepage": null,
             "id": 62515206,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-01-22T12:21:49Z",
+            "open_issues": 2,
             "owner": "lukechilds",
             "repo": "gifgen",
-            "stars": 565
+            "stars": 565,
+            "topics": [
+              "encoding-gifs",
+              "ffmpeg",
+              "gif"
+            ]
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
         },
@@ -106,12 +176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "record your scripts into a gif",
+            "homepage": null,
             "id": 12258600,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-05-07T15:13:16Z",
+            "open_issues": 3,
             "owner": "z24",
             "repo": "tty2gif",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
         },
@@ -122,12 +197,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make GIFs from <video> on the web with this extension for Google Chrome and Firefox.",
+            "homepage": null,
             "id": 21170144,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-24T13:49:09Z",
+            "open_issues": 7,
             "owner": "takempf",
             "repo": "GIFit",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "chrome",
+              "extension",
+              "firefox-addon",
+              "firefox-extension",
+              "gifs",
+              "youtube",
+              "youtube-video"
+            ]
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
         },
@@ -138,12 +226,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fast way to put gif in or emails",
+            "homepage": "https://chrome.google.com/webstore/detail/gmail-gifline/mcmandlkgdpmhpaebifnnepgokcjncej",
             "id": 33822609,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-06-05T14:57:44Z",
+            "open_issues": 1,
             "owner": "zehfernandes",
             "repo": "gifline",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "commandline",
+              "gif",
+              "gmail"
+            ]
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
         }
@@ -162,12 +259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple C++ one-header library for the creation of animated GIFs from image data.",
+                "homepage": null,
                 "id": 14991563,
                 "language": "C",
+                "license": "Unlicense",
                 "last_commit": "2024-07-12T20:35:24Z",
+                "open_issues": 9,
                 "owner": "charlietangora",
                 "repo": "gif-h",
-                "stars": 544
+                "stars": 544,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -178,12 +280,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A single-header animated GIF exporter",
+                "homepage": null,
                 "id": 148190671,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-09-10T22:20:29Z",
+                "open_issues": 2,
                 "owner": "notnullnotvoid",
                 "repo": "msf_gif",
-                "stars": 236
+                "stars": 236,
+                "topics": [
+                  "gif",
+                  "single-header-lib"
+                ]
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -194,12 +304,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple library to display animated GIF images in WPF, usable in XAML or in code.",
+                "homepage": null,
                 "id": 23852265,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-11T13:07:16Z",
+                "open_issues": 2,
                 "owner": "XamlAnimatedGif",
                 "repo": "WpfAnimatedGif",
-                "stars": 685
+                "stars": 685,
+                "topics": [
+                  "animated",
+                  "gif",
+                  "hacktoberfest",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -210,12 +330,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple library to display animated GIF images in WPF apps (.NET Framework 4.5, .NET Core 3.1, .NET 5.0)",
+                "homepage": null,
                 "id": 24573183,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-25T22:13:18Z",
+                "open_issues": 7,
                 "owner": "XamlAnimatedGif",
                 "repo": "XamlAnimatedGif",
-                "stars": 471
+                "stars": 471,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -226,12 +353,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":vhs: A high performance .NET library for reading and creating animated GIFs",
+                "homepage": null,
                 "id": 89581608,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2024-04-15T20:30:55Z",
+                "open_issues": 18,
                 "owner": "mrousavy",
                 "repo": "AnimatedGif",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "animated",
+                  "create",
+                  "decoder",
+                  "decoding",
+                  "encoder",
+                  "encoding",
+                  "gif",
+                  "library",
+                  "load"
+                ]
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -242,12 +384,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A screencapturing library",
+                "homepage": null,
                 "id": 60764009,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2017-11-20T18:52:41Z",
+                "open_issues": 0,
                 "owner": "Speiser",
                 "repo": "dot-screencap",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "animation",
+                  "c-sharp",
+                  "dot-screencap",
+                  "gif",
+                  "gif-recorder",
+                  "region-capture",
+                  "screen-capture",
+                  "screenshot"
+                ]
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             }
@@ -265,12 +421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haxe GIF encoder, implementing the NeuQuant and LZW encoding algorithms",
+                "homepage": null,
                 "id": 39529033,
                 "language": "Haxe",
+                "license": null,
                 "last_commit": "2018-12-04T19:20:31Z",
+                "open_issues": 1,
                 "owner": "snowkit",
                 "repo": "gif",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             }
@@ -288,12 +449,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Views and Drawable for displaying animated GIFs on Android",
+                "homepage": null,
                 "id": 7905539,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-23T16:24:35Z",
+                "open_issues": 33,
                 "owner": "koral--",
                 "repo": "android-gif-drawable",
-                "stars": 9648
+                "stars": 9648,
+                "topics": [
+                  "android",
+                  "animated-gifs",
+                  "drawable",
+                  "gif",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -304,12 +476,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android ImageView that handles animated GIF images",
+                "homepage": null,
                 "id": 19794801,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2023-04-03T00:46:15Z",
+                "open_issues": 11,
                 "owner": "felipecsl",
                 "repo": "GifImageView",
-                "stars": 1169
+                "stars": 1169,
+                "topics": [
+                  "android",
+                  "animation",
+                  "gif"
+                ]
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -320,12 +501,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An animated GIF encoder for Android, without any native code required. Based on the J2ME encoder by Alessandro La Rosa with the addition of dirty rectangle support.",
+                "homepage": "https://web.archive.org/web/20150608012330/http://www.jappit.com/blog/2008/12/04/j2me-animated-gif-encoder",
                 "id": 3998899,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-01-28T19:51:10Z",
+                "open_issues": 7,
                 "owner": "nbadal",
                 "repo": "android-gif-encoder",
-                "stars": 347
+                "stars": 347,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -336,12 +522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GifAnimation is a Processing library to play and export GIF animations",
+                "homepage": null,
                 "id": 16805071,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-06T00:23:49Z",
+                "open_issues": 11,
                 "owner": "extrapixel",
                 "repo": "gif-animation",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             }
@@ -359,12 +550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript GIF encoding library",
+                "homepage": "http://jnordberg.github.io/gif.js/",
                 "id": 10164495,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-06T08:25:46Z",
+                "open_issues": 94,
                 "owner": "jnordberg",
                 "repo": "gif.js",
-                "stars": 4972
+                "stars": 4972,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -375,12 +571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny JavaScript library that prevents the autoplaying of the animated Gifs",
+                "homepage": null,
                 "id": 20966713,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-08-30T15:36:31Z",
+                "open_issues": 13,
                 "owner": "krasimir",
                 "repo": "gifffer",
-                "stars": 779
+                "stars": 779,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -391,12 +592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript implementation of a GIF 89a encoder and decoder",
+                "homepage": null,
                 "id": 7722090,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-07-31T14:05:33Z",
+                "open_issues": 0,
                 "owner": "deanm",
                 "repo": "omggif",
-                "stars": 743
+                "stars": 743,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -407,12 +613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server side animated gif generation for node.js",
+                "homepage": null,
                 "id": 13329152,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-05-31T18:57:27Z",
+                "open_issues": 19,
                 "owner": "eugeneware",
                 "repo": "gifencoder",
-                "stars": 476
+                "stars": 476,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -423,12 +634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customizable jquery plugin to play and stop animated gifs. Similar to 9gag's. Support for video formats",
+                "homepage": "http://rubentd.com/gifplayer",
                 "id": 16324385,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-03-29T14:43:41Z",
+                "open_issues": 22,
                 "owner": "rubentd",
                 "repo": "gifplayer",
-                "stars": 461
+                "stars": 461,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -439,12 +655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert videos to gifs using ffmpeg and gifsicle",
+                "homepage": null,
                 "id": 12448115,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-09-06T11:59:55Z",
+                "open_issues": 7,
                 "owner": "tj",
                 "repo": "node-gify",
-                "stars": 300
+                "stars": 300,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -455,12 +676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript library for creating animated GIFs",
+                "homepage": "https://sole.github.io/Animated_GIF",
                 "id": 10182847,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-12T09:47:11Z",
+                "open_issues": 18,
                 "owner": "sole",
                 "repo": "Animated_GIF",
-                "stars": 228
+                "stars": 228,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             }
@@ -478,12 +704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GifCreator is a PHP class that creates animated GIF from multiple images",
+                "homepage": null,
                 "id": 5947726,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-09-18T18:40:16Z",
+                "open_issues": 21,
                 "owner": "Sybio",
                 "repo": "GifCreator",
-                "stars": 325
+                "stars": 325,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -494,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GifFrameExtractor is a PHP class that separates all the frames (and their duration) of an animated GIF",
+                "homepage": null,
                 "id": 5922404,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2022-07-23T14:07:50Z",
+                "open_issues": 9,
                 "owner": "Sybio",
                 "repo": "GifFrameExtractor",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             }
@@ -517,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Performant animated GIF engine for iOS",
+                "homepage": null,
                 "id": 19951534,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2024-03-21T10:45:04Z",
+                "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7949
+                "stars": 7949,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             }
@@ -540,12 +781,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance animated GIF support for iOS in Swift",
+                "homepage": null,
                 "id": 23771864,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-17T07:20:07Z",
+                "open_issues": 28,
                 "owner": "kaishin",
                 "repo": "Gifu",
-                "stars": 3213
+                "stars": 3213,
+                "topics": [
+                  "animation",
+                  "carthage",
+                  "cocoapods",
+                  "gif",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             },
@@ -556,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High performance GIF engine",
+                "homepage": null,
                 "id": 54882337,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-12-18T21:41:53Z",
+                "open_issues": 10,
                 "owner": "alexiscreuzot",
                 "repo": "SwiftyGif",
-                "stars": 2281
+                "stars": 2281,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
             }
@@ -575,15 +832,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:55:46.366Z",
+    "last_updated": "2026-08-29T04:40:20.125Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome GIF resources.",
+      "homepage": null,
       "id": 79741499,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-17T03:17:16Z",
+      "open_issues": 4,
       "owner": "davisonio",
       "repo": "awesome-gif",
-      "stars": 697
+      "stars": 698,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "gif"
+      ]
     },
     "original_repository_sha": "42a6bdbef0f8b0e4107839adcf13b32d2259e194",
     "enhanced_repository": "enhansome/enhansome-gif",
