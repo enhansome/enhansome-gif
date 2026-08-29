@@ -297,7 +297,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 187,602 | 🐛 2,597 | 🌐 Python | 📅 2026-08-27
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 187,715 | 🐛 2,599 | 🌐 Python | 📅 2026-08-27
 
 ## Miscellaneous
 
@@ -314,7 +314,7 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 501,073 | 🐛 105 | 📅 2026-08-21 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
