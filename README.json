@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5614,
+            "stars": 5616,
             "topics": [
               "gif",
               "gif-animation",
@@ -289,7 +289,7 @@
                 "open_issues": 2,
                 "owner": "notnullnotvoid",
                 "repo": "msf_gif",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "gif",
                   "single-header-lib"
@@ -762,7 +762,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7949,
+                "stars": 7950,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -817,7 +817,7 @@
                 "open_issues": 10,
                 "owner": "alexiscreuzot",
                 "repo": "SwiftyGif",
-                "stars": 2281,
+                "stars": 2280,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:14:28.815Z",
+    "last_updated": "2026-08-31T19:25:45.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
