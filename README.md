@@ -44,7 +44,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Utilities
 
-* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,621 | 🐛 36 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
+* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,623 | 🐛 36 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
 * [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,766 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-27 - Capture animations created with HTML5 canvas.
 * [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,444 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
 * [Screengif](https://github.com/dergachev/screengif) ⭐ 1,309 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
@@ -297,7 +297,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 188,899 | 🐛 2,624 | 🌐 Python | 📅 2026-08-30
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 189,155 | 🐛 2,632 | 🌐 Python | 📅 2026-08-30
 
 ## Miscellaneous
 
@@ -314,8 +314,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 502,962 | 🐛 106 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 503,230 | 🐛 106 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
