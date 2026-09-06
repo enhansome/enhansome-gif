@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-06-17T02:52:51Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5623,
+            "stars": 5624,
             "topics": [
               "gif",
               "gif-animation",
@@ -458,7 +458,7 @@
                 "open_issues": 33,
                 "owner": "koral--",
                 "repo": "android-gif-drawable",
-                "stars": 9646,
+                "stars": 9647,
                 "topics": [
                   "android",
                   "animated-gifs",
@@ -485,7 +485,7 @@
                 "open_issues": 11,
                 "owner": "felipecsl",
                 "repo": "GifImageView",
-                "stars": 1169,
+                "stars": 1167,
                 "topics": [
                   "android",
                   "animation",
@@ -559,7 +559,7 @@
                 "open_issues": 94,
                 "owner": "jnordberg",
                 "repo": "gif.js",
-                "stars": 4972,
+                "stars": 4973,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -762,7 +762,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7951,
+                "stars": 7948,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T15:50:34.310Z",
+    "last_updated": "2026-09-06T16:01:15.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
