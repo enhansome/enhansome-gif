@@ -77,7 +77,7 @@
             "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1446,
+            "stars": 1448,
             "topics": [
               "animated-gifs",
               "appimage",
@@ -339,7 +339,7 @@
                 "open_issues": 7,
                 "owner": "XamlAnimatedGif",
                 "repo": "XamlAnimatedGif",
-                "stars": 471,
+                "stars": 472,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -685,7 +685,7 @@
                 "open_issues": 18,
                 "owner": "sole",
                 "repo": "Animated_GIF",
-                "stars": 228,
+                "stars": 229,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:17:34.725Z",
+    "last_updated": "2026-09-20T16:42:26.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",

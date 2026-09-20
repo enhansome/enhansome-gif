@@ -46,7 +46,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 * [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,634 | 🐛 37 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
 * [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,766 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-27 - Capture animations created with HTML5 canvas.
-* [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,446 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
+* [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,448 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
 * [Screengif](https://github.com/dergachev/screengif) ⭐ 1,309 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
 * [Gifify](https://github.com/jclem/gifify) ⭐ 1,139 | 🐛 7 | 🌐 Shell | 📅 2024-02-13 - Convert screen recording into GIF.
 * [Gifgen](https://github.com/lukechilds/gifgen) ⭐ 565 | 🐛 2 | 🌐 Shell | 📅 2023-01-22 - Simple high quality GIF encoding.
@@ -65,7 +65,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 <h3 id="c-sharp">C#</h2>
 
 * [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) ⭐ 685 | 🐛 2 | 🌐 C# | 📅 2023-05-11 - A simple library to display animated GIF images in WPF.
-* [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif) ⭐ 471 | 🐛 7 | 🌐 C# | 📅 2026-06-25 - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
+* [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif) ⭐ 472 | 🐛 7 | 🌐 C# | 📅 2026-06-25 - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
 * [AnimatedGif](https://github.com/mrousavy/AnimatedGif) ⭐ 156 | 🐛 18 | 🌐 C# | 📅 2024-04-15 - A high performance .NET library for reading and creating animated GIFs.
 * [dot-screencap](https://github.com/Speiser/dot-screencap) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2017-11-20 - A simple libary to record your screen and save it as animated GIF.
 
@@ -88,7 +88,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 * [Gifencoder](https://github.com/eugeneware/gifencoder) ⭐ 476 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-31 - Server side animated GIF generation for Node.js.
 * [Gifplayer](https://github.com/rubentd/gifplayer) ⭐ 461 | 🐛 22 | 🌐 JavaScript | 📅 2025-03-29 - JQuery plugin to play and stop animated GIFs.
 * [node-gify](https://github.com/tj/node-gify) ⭐ 300 | 🐛 7 | 🌐 JavaScript | 📅 2022-09-06 - JavaScript convert videos to GIFs using FFmpeg and gifsicle.
-* [Animated\_GIF](https://github.com/sole/Animated_GIF) ⭐ 228 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-12 - JavaScript library for creating animated GIFs.
+* [Animated\_GIF](https://github.com/sole/Animated_GIF) ⭐ 229 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-12 - JavaScript library for creating animated GIFs.
 
 ### PHP
 
@@ -297,7 +297,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 192,114 | 🐛 2,659 | 🌐 Python | 📅 2026-09-16
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 192,302 | 🐛 2,662 | 🌐 Python | 📅 2026-09-16
 
 ## Miscellaneous
 
@@ -314,8 +314,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 507,775 | 🐛 106 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 508,137 | 🐛 106 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
