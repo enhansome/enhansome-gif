@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5634,
+            "stars": 5635,
             "topics": [
               "gif",
               "gif-animation",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:42:26.035Z",
+    "last_updated": "2026-09-21T18:31:50.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
