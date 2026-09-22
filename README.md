@@ -75,7 +75,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Java
 
-* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,649 | 🐛 33 | 🌐 Java | 📅 2026-06-23 - Views and Drawable for displaying animated GIFs on Android.
+* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,648 | 🐛 33 | 🌐 Java | 📅 2026-06-23 - Views and Drawable for displaying animated GIFs on Android.
 * [GifImageView](https://github.com/felipecsl/GifImageView) ⭐ 1,167 | 🐛 11 | 🌐 Kotlin | 📅 2023-04-03 - Android ImageView that handles animated GIF images.
 * [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) ⚠️ Archived - Animated GIF encoder for Android.
 * [Gif-animation](https://github.com/extrapixel/gif-animation) ⭐ 178 | 🐛 11 | 🌐 Java | 📅 2021-10-06 - Processing library to play and export GIF.
@@ -297,7 +297,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 192,526 | 🐛 2,663 | 🌐 Python | 📅 2026-09-16
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 192,909 | 🐛 2,664 | 🌐 Python | 📅 2026-09-16
 
 ## Miscellaneous
 
@@ -314,8 +314,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 508,553 | 🐛 106 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 508,929 | 🐛 106 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
