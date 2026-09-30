@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5645,
+            "stars": 5653,
             "topics": [
               "gif",
               "gif-animation",
@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "spite",
             "repo": "ccapture.js",
-            "stars": 3766,
+            "stars": 3767,
             "topics": [
               "canvas",
               "capture",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:29:30.938Z",
+    "last_updated": "2026-09-30T18:18:09.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
