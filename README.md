@@ -44,7 +44,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Utilities
 
-* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,660 | 🐛 37 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
+* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,663 | 🐛 37 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
 * [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,769 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-27 - Capture animations created with HTML5 canvas.
 * [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,448 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
 * [Screengif](https://github.com/dergachev/screengif) ⭐ 1,308 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
@@ -75,7 +75,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Java
 
-* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,644 | 🐛 33 | 🌐 Java | 📅 2026-06-23 - Views and Drawable for displaying animated GIFs on Android.
+* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,645 | 🐛 33 | 🌐 Java | 📅 2026-06-23 - Views and Drawable for displaying animated GIFs on Android.
 * [GifImageView](https://github.com/felipecsl/GifImageView) ⭐ 1,167 | 🐛 11 | 🌐 Kotlin | 📅 2023-04-03 - Android ImageView that handles animated GIF images.
 * [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) ⚠️ Archived - Animated GIF encoder for Android.
 * [Gif-animation](https://github.com/extrapixel/gif-animation) ⭐ 178 | 🐛 11 | 🌐 Java | 📅 2021-10-06 - Processing library to play and export GIF.
@@ -297,7 +297,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 195,483 | 🐛 2,678 | 🌐 Python | 📅 2026-09-27
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 195,750 | 🐛 2,682 | 🌐 Python | 📅 2026-09-27
 
 ## Miscellaneous
 
@@ -314,8 +314,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 514,582 | 🐛 107 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 515,120 | 🐛 107 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
