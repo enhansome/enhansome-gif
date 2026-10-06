@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "spite",
             "repo": "ccapture.js",
-            "stars": 3769,
+            "stars": 3770,
             "topics": [
               "canvas",
               "capture",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:02:21.910Z",
+    "last_updated": "2026-10-06T10:29:56.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
