@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5665,
+            "stars": 5667,
             "topics": [
               "gif",
               "gif-animation",
@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "spite",
             "repo": "ccapture.js",
-            "stars": 3772,
+            "stars": 3773,
             "topics": [
               "canvas",
               "capture",
@@ -313,7 +313,7 @@
                 "open_issues": 2,
                 "owner": "XamlAnimatedGif",
                 "repo": "WpfAnimatedGif",
-                "stars": 685,
+                "stars": 684,
                 "topics": [
                   "animated",
                   "gif",
@@ -339,7 +339,7 @@
                 "open_issues": 7,
                 "owner": "XamlAnimatedGif",
                 "repo": "XamlAnimatedGif",
-                "stars": 472,
+                "stars": 471,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -762,7 +762,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7941,
+                "stars": 7939,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:10:37.161Z",
+    "last_updated": "2026-10-09T18:41:16.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
@@ -844,7 +844,7 @@
       "open_issues": 5,
       "owner": "davisonio",
       "repo": "awesome-gif",
-      "stars": 698,
+      "stars": 700,
       "topics": [
         "awesome",
         "awesome-list",
