@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5667,
+            "stars": 5666,
             "topics": [
               "gif",
               "gif-animation",
@@ -313,7 +313,7 @@
                 "open_issues": 2,
                 "owner": "XamlAnimatedGif",
                 "repo": "WpfAnimatedGif",
-                "stars": 684,
+                "stars": 685,
                 "topics": [
                   "animated",
                   "gif",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:40:41.545Z",
+    "last_updated": "2026-10-11T17:55:33.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
