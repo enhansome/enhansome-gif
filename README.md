@@ -44,7 +44,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Utilities
 
-* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,666 | 🐛 37 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
+* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,671 | 🐛 37 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
 * [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,773 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-27 - Capture animations created with HTML5 canvas.
 * [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,449 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
 * [Screengif](https://github.com/dergachev/screengif) ⭐ 1,308 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
@@ -75,14 +75,14 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Java
 
-* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,645 | 🐛 33 | 🌐 Java | 📅 2026-06-23 - Views and Drawable for displaying animated GIFs on Android.
+* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,647 | 🐛 33 | 🌐 Java | 📅 2026-06-23 - Views and Drawable for displaying animated GIFs on Android.
 * [GifImageView](https://github.com/felipecsl/GifImageView) ⭐ 1,168 | 🐛 11 | 🌐 Kotlin | 📅 2023-04-03 - Android ImageView that handles animated GIF images.
 * [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) ⚠️ Archived - Animated GIF encoder for Android.
 * [Gif-animation](https://github.com/extrapixel/gif-animation) ⭐ 178 | 🐛 11 | 🌐 Java | 📅 2021-10-06 - Processing library to play and export GIF.
 
 ### JavaScript
 
-* [Gif.js](https://github.com/jnordberg/gif.js) ⭐ 4,982 | 🐛 94 | 🌐 JavaScript | 📅 2023-10-06 - Create GIF from the DOM.
+* [Gif.js](https://github.com/jnordberg/gif.js) ⭐ 4,983 | 🐛 94 | 🌐 JavaScript | 📅 2023-10-06 - Create GIF from the DOM.
 * [Gifffer](https://github.com/krasimir/gifffer) ⭐ 778 | 🐛 13 | 🌐 JavaScript | 📅 2019-08-30 - JavaScript library that prevents the autoplaying of the animated GIFs.
 * [Omggif](https://github.com/deanm/omggif) ⭐ 743 | 🐛 0 | 🌐 JavaScript | 📅 2019-07-31 - GIF 89a encoder and decoder.
 * [Gifencoder](https://github.com/eugeneware/gifencoder) ⭐ 476 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-31 - Server side animated GIF generation for Node.js.
@@ -97,12 +97,12 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Objective-C
 
-* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,939 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21 - GIF engine for iOS by FlipBoard.
+* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,938 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21 - GIF engine for iOS by FlipBoard.
 
 ### Swift
 
 * [Gifu](https://github.com/kaishin/gifu) ⭐ 3,211 | 🐛 28 | 🌐 Swift | 📅 2025-08-17 - Animated GIF support for iOS in Swift.
-* [SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif) ⭐ 2,281 | 🐛 10 | 🌐 Swift | 📅 2024-12-18 - High performance & easy to use Gif engine.
+* [SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif) ⭐ 2,282 | 🐛 10 | 🌐 Swift | 📅 2024-12-18 - High performance & easy to use Gif engine.
 
 ## GUI
 
@@ -297,7 +297,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 196,889 | 🐛 2,685 | 🌐 Python | 📅 2026-10-10
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 197,189 | 🐛 2,687 | 🌐 Python | 📅 2026-10-10
 
 ## Miscellaneous
 
@@ -314,8 +314,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 517,589 | 🐛 105 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 518,129 | 🐛 105 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
