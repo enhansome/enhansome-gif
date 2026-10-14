@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5670,
+            "stars": 5673,
             "topics": [
               "gif",
               "gif-animation",
@@ -206,7 +206,7 @@
             "open_issues": 7,
             "owner": "takempf",
             "repo": "GIFit",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "chrome",
               "extension",
@@ -313,7 +313,7 @@
                 "open_issues": 2,
                 "owner": "XamlAnimatedGif",
                 "repo": "WpfAnimatedGif",
-                "stars": 685,
+                "stars": 684,
                 "topics": [
                   "animated",
                   "gif",
@@ -380,7 +380,7 @@
             {
               "node_type": "item",
               "title": "dot-screencap",
-              "description": "A simple libary to record your screen and save it as animated GIF.",
+              "description": "A simple library to record your screen and save it as animated GIF.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -559,7 +559,7 @@
                 "open_issues": 94,
                 "owner": "jnordberg",
                 "repo": "gif.js",
-                "stars": 4983,
+                "stars": 4984,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -762,7 +762,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7939,
+                "stars": 7938,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:46:34.041Z",
+    "last_updated": "2026-10-14T17:49:39.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
@@ -840,18 +840,18 @@
       "id": 79741499,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-05-17T03:17:16Z",
+      "last_commit": "2026-10-14T17:33:49Z",
       "open_issues": 5,
       "owner": "davisonio",
       "repo": "awesome-gif",
-      "stars": 701,
+      "stars": 702,
       "topics": [
         "awesome",
         "awesome-list",
         "gif"
       ]
     },
-    "original_repository_sha": "42a6bdbef0f8b0e4107839adcf13b32d2259e194",
+    "original_repository_sha": "ad08d798bffb07a8e74bc9bad315715c794858e9",
     "enhanced_repository": "enhansome/enhansome-gif",
     "enhanced_repository_description": null,
     "title": "Awesome GIF with stars"
