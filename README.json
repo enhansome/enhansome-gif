@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5673,
+            "stars": 5674,
             "topics": [
               "gif",
               "gif-animation",
@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "spite",
             "repo": "ccapture.js",
-            "stars": 3774,
+            "stars": 3775,
             "topics": [
               "canvas",
               "capture",
@@ -77,7 +77,7 @@
             "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1449,
+            "stars": 1450,
             "topics": [
               "animated-gifs",
               "appimage",
@@ -458,7 +458,7 @@
                 "open_issues": 33,
                 "owner": "koral--",
                 "repo": "android-gif-drawable",
-                "stars": 9647,
+                "stars": 9648,
                 "topics": [
                   "android",
                   "animated-gifs",
@@ -790,7 +790,7 @@
                 "open_issues": 28,
                 "owner": "kaishin",
                 "repo": "Gifu",
-                "stars": 3211,
+                "stars": 3212,
                 "topics": [
                   "animation",
                   "carthage",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T17:49:39.771Z",
+    "last_updated": "2026-10-15T17:39:00.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
@@ -840,8 +840,8 @@
       "id": 79741499,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-14T17:33:49Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-14T22:16:02Z",
+      "open_issues": 6,
       "owner": "davisonio",
       "repo": "awesome-gif",
       "stars": 702,
@@ -851,7 +851,7 @@
         "gif"
       ]
     },
-    "original_repository_sha": "ad08d798bffb07a8e74bc9bad315715c794858e9",
+    "original_repository_sha": "c98a3fa7571b779d95058c0c9a47a11afff13c5e",
     "enhanced_repository": "enhansome/enhansome-gif",
     "enhanced_repository_description": null,
     "title": "Awesome GIF with stars"
