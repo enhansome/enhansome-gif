@@ -45,7 +45,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Utilities
 
 * [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,676 | 🐛 37 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
-* [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,776 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Capture animations created with HTML5 canvas.
+* [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,777 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Capture animations created with HTML5 canvas.
 * [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,450 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
 * [Screengif](https://github.com/dergachev/screengif) ⭐ 1,308 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
 * [Gifify](https://github.com/jclem/gifify) ⭐ 1,139 | 🐛 7 | 🌐 Shell | 📅 2024-02-13 - Convert screen recording into GIF.
@@ -75,14 +75,14 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Java
 
-* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,648 | 🐛 34 | 🌐 Java | 📅 2026-10-16 - Views and Drawable for displaying animated GIFs on Android.
+* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,647 | 🐛 34 | 🌐 Java | 📅 2026-10-17 - Views and Drawable for displaying animated GIFs on Android.
 * [GifImageView](https://github.com/felipecsl/GifImageView) ⭐ 1,168 | 🐛 11 | 🌐 Kotlin | 📅 2023-04-03 - Android ImageView that handles animated GIF images.
 * [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) ⚠️ Archived - Animated GIF encoder for Android.
 * [Gif-animation](https://github.com/extrapixel/gif-animation) ⭐ 178 | 🐛 11 | 🌐 Java | 📅 2021-10-06 - Processing library to play and export GIF.
 
 ### JavaScript
 
-* [Gif.js](https://github.com/jnordberg/gif.js) ⭐ 4,985 | 🐛 94 | 🌐 JavaScript | 📅 2023-10-06 - Create GIF from the DOM.
+* [Gif.js](https://github.com/jnordberg/gif.js) ⭐ 4,984 | 🐛 94 | 🌐 JavaScript | 📅 2023-10-06 - Create GIF from the DOM.
 * [Gifffer](https://github.com/krasimir/gifffer) ⭐ 778 | 🐛 13 | 🌐 JavaScript | 📅 2019-08-30 - JavaScript library that prevents the autoplaying of the animated GIFs.
 * [Omggif](https://github.com/deanm/omggif) ⭐ 743 | 🐛 0 | 🌐 JavaScript | 📅 2019-07-31 - GIF 89a encoder and decoder.
 * [Gifencoder](https://github.com/eugeneware/gifencoder) ⭐ 476 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-31 - Server side animated GIF generation for Node.js.
@@ -295,7 +295,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 198,423 | 🐛 2,705 | 🌐 Python | 📅 2026-10-10
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 198,810 | 🐛 2,715 | 🌐 Python | 📅 2026-10-10
 
 ## Miscellaneous
 
@@ -312,8 +312,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 519,887 | 🐛 105 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 520,331 | 🐛 105 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
