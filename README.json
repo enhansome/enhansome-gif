@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5675,
+            "stars": 5677,
             "topics": [
               "gif",
               "gif-animation",
@@ -268,7 +268,7 @@
                 "open_issues": 7,
                 "owner": "charlietangora",
                 "repo": "gif-h",
-                "stars": 544,
+                "stars": 545,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -559,7 +559,7 @@
                 "open_issues": 94,
                 "owner": "jnordberg",
                 "repo": "gif.js",
-                "stars": 4984,
+                "stars": 4986,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:06:24.590Z",
+    "last_updated": "2026-10-20T17:48:59.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
