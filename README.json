@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5676,
+            "stars": 5677,
             "topics": [
               "gif",
               "gif-animation",
@@ -232,7 +232,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2019-06-05T14:57:44Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "zehfernandes",
             "repo": "gifline",
             "stars": 69,
@@ -339,7 +339,7 @@
                 "open_issues": 7,
                 "owner": "XamlAnimatedGif",
                 "repo": "XamlAnimatedGif",
-                "stars": 471,
+                "stars": 470,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -559,7 +559,7 @@
                 "open_issues": 94,
                 "owner": "jnordberg",
                 "repo": "gif.js",
-                "stars": 4986,
+                "stars": 4985,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -622,7 +622,7 @@
                 "open_issues": 19,
                 "owner": "eugeneware",
                 "repo": "gifencoder",
-                "stars": 476,
+                "stars": 475,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T17:55:47.721Z",
+    "last_updated": "2026-10-22T17:52:47.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
@@ -841,7 +841,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-19T09:47:56Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "davisonio",
       "repo": "awesome-gif",
       "stars": 702,
