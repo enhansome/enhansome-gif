@@ -16,7 +16,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-06-17T02:52:51Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "ImageOptim",
             "repo": "gifski",
             "stars": 5678,
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:45:37.339Z",
+    "last_updated": "2026-10-24T16:27:19.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
