@@ -75,14 +75,14 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Java
 
-* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,643 | 🐛 32 | 🌐 Java | 📅 2026-10-21 - Views and Drawable for displaying animated GIFs on Android.
+* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,644 | 🐛 32 | 🌐 Java | 📅 2026-10-21 - Views and Drawable for displaying animated GIFs on Android.
 * [GifImageView](https://github.com/felipecsl/GifImageView) ⭐ 1,168 | 🐛 11 | 🌐 Kotlin | 📅 2023-04-03 - Android ImageView that handles animated GIF images.
 * [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) ⚠️ Archived - Animated GIF encoder for Android.
 * [Gif-animation](https://github.com/extrapixel/gif-animation) ⭐ 178 | 🐛 11 | 🌐 Java | 📅 2021-10-06 - Processing library to play and export GIF.
 
 ### JavaScript
 
-* [Gif.js](https://github.com/jnordberg/gif.js) ⭐ 4,985 | 🐛 94 | 🌐 JavaScript | 📅 2023-10-06 - Create GIF from the DOM.
+* [Gif.js](https://github.com/jnordberg/gif.js) ⭐ 4,984 | 🐛 94 | 🌐 JavaScript | 📅 2023-10-06 - Create GIF from the DOM.
 * [Gifffer](https://github.com/krasimir/gifffer) ⭐ 778 | 🐛 13 | 🌐 JavaScript | 📅 2019-08-30 - JavaScript library that prevents the autoplaying of the animated GIFs.
 * [Omggif](https://github.com/deanm/omggif) ⭐ 742 | 🐛 0 | 🌐 JavaScript | 📅 2019-07-31 - GIF 89a encoder and decoder.
 * [Gifencoder](https://github.com/eugeneware/gifencoder) ⭐ 475 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-31 - Server side animated GIF generation for Node.js.
@@ -97,7 +97,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Objective-C
 
-* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,937 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21 - GIF engine for iOS by FlipBoard.
+* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,938 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21 - GIF engine for iOS by FlipBoard.
 
 ### Swift
 
@@ -295,7 +295,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 201,398 | 🐛 2,721 | 🌐 Python | 📅 2026-10-23
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 201,969 | 🐛 2,725 | 🌐 Python | 📅 2026-10-23
 
 ## Miscellaneous
 
@@ -312,8 +312,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 523,997 | 🐛 105 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 524,603 | 🐛 105 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
