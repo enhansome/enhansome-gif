@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5678,
+            "stars": 5679,
             "topics": [
               "gif",
               "gif-animation",
@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "spite",
             "repo": "ccapture.js",
-            "stars": 3778,
+            "stars": 3779,
             "topics": [
               "canvas",
               "capture",
@@ -77,7 +77,7 @@
             "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1452,
+            "stars": 1453,
             "topics": [
               "animated-gifs",
               "appimage",
@@ -458,7 +458,7 @@
                 "open_issues": 32,
                 "owner": "koral--",
                 "repo": "android-gif-drawable",
-                "stars": 9644,
+                "stars": 9645,
                 "topics": [
                   "android",
                   "animated-gifs",
@@ -559,7 +559,7 @@
                 "open_issues": 94,
                 "owner": "jnordberg",
                 "repo": "gif.js",
-                "stars": 4984,
+                "stars": 4985,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -601,7 +601,7 @@
                 "open_issues": 0,
                 "owner": "deanm",
                 "repo": "omggif",
-                "stars": 742,
+                "stars": 743,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T16:58:55.358Z",
+    "last_updated": "2026-10-26T19:03:50.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
@@ -844,7 +844,7 @@
       "open_issues": 7,
       "owner": "davisonio",
       "repo": "awesome-gif",
-      "stars": 702,
+      "stars": 703,
       "topics": [
         "awesome",
         "awesome-list",
