@@ -118,7 +118,7 @@
             "open_issues": 16,
             "owner": "dergachev",
             "repo": "screengif",
-            "stars": 1308,
+            "stars": 1307,
             "topics": []
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
@@ -139,7 +139,7 @@
             "open_issues": 7,
             "owner": "jclem",
             "repo": "gifify",
-            "stars": 1139,
+            "stars": 1138,
             "topics": []
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
@@ -160,7 +160,7 @@
             "open_issues": 2,
             "owner": "lukechilds",
             "repo": "gifgen",
-            "stars": 569,
+            "stars": 568,
             "topics": [
               "encoding-gifs",
               "ffmpeg",
@@ -235,7 +235,7 @@
             "open_issues": 0,
             "owner": "zehfernandes",
             "repo": "gifline",
-            "stars": 69,
+            "stars": 68,
             "topics": [
               "commandline",
               "gif",
@@ -454,7 +454,7 @@
                 "id": 7905539,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T16:22:09Z",
+                "last_commit": "2026-10-30T09:03:31Z",
                 "open_issues": 32,
                 "owner": "koral--",
                 "repo": "android-gif-drawable",
@@ -559,7 +559,7 @@
                 "open_issues": 94,
                 "owner": "jnordberg",
                 "repo": "gif.js",
-                "stars": 4986,
+                "stars": 4985,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -601,7 +601,7 @@
                 "open_issues": 0,
                 "owner": "deanm",
                 "repo": "omggif",
-                "stars": 743,
+                "stars": 742,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -622,7 +622,7 @@
                 "open_issues": 19,
                 "owner": "eugeneware",
                 "repo": "gifencoder",
-                "stars": 475,
+                "stars": 474,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -790,7 +790,7 @@
                 "open_issues": 28,
                 "owner": "kaishin",
                 "repo": "Gifu",
-                "stars": 3212,
+                "stars": 3211,
                 "topics": [
                   "animation",
                   "carthage",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:49:33.873Z",
+    "last_updated": "2026-10-30T18:26:55.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
@@ -841,7 +841,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-19T09:47:56Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "davisonio",
       "repo": "awesome-gif",
       "stars": 703,
