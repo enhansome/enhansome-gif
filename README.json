@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "spite",
             "repo": "ccapture.js",
-            "stars": 3779,
+            "stars": 3780,
             "topics": [
               "canvas",
               "capture",
@@ -598,7 +598,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2019-07-31T14:05:33Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "deanm",
                 "repo": "omggif",
                 "stars": 742,
@@ -790,7 +790,7 @@
                 "open_issues": 28,
                 "owner": "kaishin",
                 "repo": "Gifu",
-                "stars": 3211,
+                "stars": 3212,
                 "topics": [
                   "animation",
                   "carthage",
@@ -817,7 +817,7 @@
                 "open_issues": 10,
                 "owner": "alexiscreuzot",
                 "repo": "SwiftyGif",
-                "stars": 2282,
+                "stars": 2283,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:26:55.542Z",
+    "last_updated": "2026-10-31T17:32:16.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
