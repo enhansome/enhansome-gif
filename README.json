@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5682,
+            "stars": 5683,
             "topics": [
               "gif",
               "gif-animation",
@@ -118,7 +118,7 @@
             "open_issues": 16,
             "owner": "dergachev",
             "repo": "screengif",
-            "stars": 1307,
+            "stars": 1306,
             "topics": []
           },
           "first_seen": "2026-08-28T22:55:46.366Z"
@@ -235,7 +235,7 @@
             "open_issues": 0,
             "owner": "zehfernandes",
             "repo": "gifline",
-            "stars": 68,
+            "stars": 67,
             "topics": [
               "commandline",
               "gif",
@@ -359,7 +359,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2024-04-15T20:30:55Z",
-                "open_issues": 18,
+                "open_issues": 17,
                 "owner": "mrousavy",
                 "repo": "AnimatedGif",
                 "stars": 156,
@@ -598,7 +598,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2019-07-31T14:05:33Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "deanm",
                 "repo": "omggif",
                 "stars": 742,
@@ -622,7 +622,7 @@
                 "open_issues": 19,
                 "owner": "eugeneware",
                 "repo": "gifencoder",
-                "stars": 474,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:32:16.028Z",
+    "last_updated": "2026-11-01T18:17:45.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",

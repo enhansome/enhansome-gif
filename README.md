@@ -44,15 +44,15 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Utilities
 
-* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,682 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
+* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,683 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
 * [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,780 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Capture animations created with HTML5 canvas.
 * [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,453 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
-* [Screengif](https://github.com/dergachev/screengif) ⭐ 1,307 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
+* [Screengif](https://github.com/dergachev/screengif) ⭐ 1,306 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
 * [Gifify](https://github.com/jclem/gifify) ⭐ 1,138 | 🐛 7 | 🌐 Shell | 📅 2024-02-13 - Convert screen recording into GIF.
 * [Gifgen](https://github.com/lukechilds/gifgen) ⭐ 568 | 🐛 2 | 🌐 Shell | 📅 2023-01-22 - Simple high quality GIF encoding.
 * [Tty2gif](https://github.com/z24/tty2gif) ⭐ 160 | 🐛 3 | 🌐 C++ | 📅 2023-05-07 - Record scripts and their outputs into both binary and GIF formats.
 * [Gifit](https://github.com/takempf/GIFit) ⭐ 138 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-24 - Chrome extension to make a GIF from a YouTube video.
-* [Gifline](https://github.com/zehfernandes/gifline) ⭐ 68 | 🐛 0 | 🌐 JavaScript | 📅 2019-06-05 - Chrome extension to put GIFs in your emails.
+* [Gifline](https://github.com/zehfernandes/gifline) ⭐ 67 | 🐛 0 | 🌐 JavaScript | 📅 2019-06-05 - Chrome extension to put GIFs in your emails.
 * [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
 
 ## Libraries
@@ -66,7 +66,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 * [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) ⭐ 684 | 🐛 2 | 🌐 C# | 📅 2023-05-11 - A simple library to display animated GIF images in WPF.
 * [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif) ⭐ 472 | 🐛 7 | 🌐 C# | 📅 2026-06-25 - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
-* [AnimatedGif](https://github.com/mrousavy/AnimatedGif) ⭐ 156 | 🐛 18 | 🌐 C# | 📅 2024-04-15 - A high performance .NET library for reading and creating animated GIFs.
+* [AnimatedGif](https://github.com/mrousavy/AnimatedGif) ⭐ 156 | 🐛 17 | 🌐 C# | 📅 2024-04-15 - A high performance .NET library for reading and creating animated GIFs.
 * [dot-screencap](https://github.com/Speiser/dot-screencap) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2017-11-20 - A simple library to record your screen and save it as animated GIF.
 
 ### Haxe
@@ -84,8 +84,8 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 * [Gif.js](https://github.com/jnordberg/gif.js) ⭐ 4,985 | 🐛 94 | 🌐 JavaScript | 📅 2023-10-06 - Create GIF from the DOM.
 * [Gifffer](https://github.com/krasimir/gifffer) ⭐ 778 | 🐛 13 | 🌐 JavaScript | 📅 2019-08-30 - JavaScript library that prevents the autoplaying of the animated GIFs.
-* [Omggif](https://github.com/deanm/omggif) ⭐ 742 | 🐛 1 | 🌐 JavaScript | 📅 2019-07-31 - GIF 89a encoder and decoder.
-* [Gifencoder](https://github.com/eugeneware/gifencoder) ⭐ 474 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-31 - Server side animated GIF generation for Node.js.
+* [Omggif](https://github.com/deanm/omggif) ⭐ 742 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-31 - GIF 89a encoder and decoder.
+* [Gifencoder](https://github.com/eugeneware/gifencoder) ⭐ 473 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-31 - Server side animated GIF generation for Node.js.
 * [Gifplayer](https://github.com/rubentd/gifplayer) ⭐ 461 | 🐛 22 | 🌐 JavaScript | 📅 2025-03-29 - JQuery plugin to play and stop animated GIFs.
 * [node-gify](https://github.com/tj/node-gify) ⭐ 300 | 🐛 7 | 🌐 JavaScript | 📅 2022-09-06 - JavaScript convert videos to GIFs using FFmpeg and gifsicle.
 * [Animated\_GIF](https://github.com/sole/Animated_GIF) ⭐ 229 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-12 - JavaScript library for creating animated GIFs.
@@ -295,7 +295,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 204,164 | 🐛 2,741 | 🌐 Python | 📅 2026-10-29
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 204,453 | 🐛 2,746 | 🌐 Python | 📅 2026-10-29
 
 ## Miscellaneous
 
@@ -312,8 +312,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 527,905 | 🐛 105 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 528,423 | 🐛 105 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
