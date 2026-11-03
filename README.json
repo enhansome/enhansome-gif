@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5685,
+            "stars": 5688,
             "topics": [
               "gif",
               "gif-animation",
@@ -458,7 +458,7 @@
                 "open_issues": 32,
                 "owner": "koral--",
                 "repo": "android-gif-drawable",
-                "stars": 9645,
+                "stars": 9644,
                 "topics": [
                   "android",
                   "animated-gifs",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:12:27.299Z",
+    "last_updated": "2026-11-03T19:58:57.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
