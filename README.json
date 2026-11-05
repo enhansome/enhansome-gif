@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5688,
+            "stars": 5691,
             "topics": [
               "gif",
               "gif-animation",
@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "spite",
             "repo": "ccapture.js",
-            "stars": 3780,
+            "stars": 3781,
             "topics": [
               "canvas",
               "capture",
@@ -759,7 +759,7 @@
                 "language": "Objective-C",
                 "license": "MIT",
                 "last_commit": "2024-03-21T10:45:04Z",
-                "open_issues": 83,
+                "open_issues": 82,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
                 "stars": 7940,
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:18:40.474Z",
+    "last_updated": "2026-11-05T20:29:36.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",

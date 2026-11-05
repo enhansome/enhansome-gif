@@ -44,8 +44,8 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Utilities
 
-* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,688 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
-* [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,780 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Capture animations created with HTML5 canvas.
+* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,691 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
+* [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,781 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Capture animations created with HTML5 canvas.
 * [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,454 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
 * [Screengif](https://github.com/dergachev/screengif) ⭐ 1,306 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
 * [Gifify](https://github.com/jclem/gifify) ⭐ 1,138 | 🐛 7 | 🌐 Shell | 📅 2024-02-13 - Convert screen recording into GIF.
@@ -97,7 +97,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Objective-C
 
-* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,940 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21 - GIF engine for iOS by FlipBoard.
+* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,940 | 🐛 82 | 🌐 Objective-C | 📅 2024-03-21 - GIF engine for iOS by FlipBoard.
 
 ### Swift
 
@@ -295,7 +295,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 205,225 | 🐛 2,763 | 🌐 Python | 📅 2026-11-04
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 205,511 | 🐛 2,766 | 🌐 Python | 📅 2026-11-04
 
 ## Miscellaneous
 
@@ -312,8 +312,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 530,890 | 🐛 103 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 531,672 | 🐛 103 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
