@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5691,
+            "stars": 5694,
             "topics": [
               "gif",
               "gif-animation",
@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "spite",
             "repo": "ccapture.js",
-            "stars": 3781,
+            "stars": 3780,
             "topics": [
               "canvas",
               "capture",
@@ -77,7 +77,7 @@
             "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1454,
+            "stars": 1455,
             "topics": [
               "animated-gifs",
               "appimage",
@@ -313,7 +313,7 @@
                 "open_issues": 2,
                 "owner": "XamlAnimatedGif",
                 "repo": "WpfAnimatedGif",
-                "stars": 684,
+                "stars": 683,
                 "topics": [
                   "animated",
                   "gif",
@@ -454,11 +454,11 @@
                 "id": 7905539,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T09:03:31Z",
+                "last_commit": "2026-11-06T08:35:56Z",
                 "open_issues": 32,
                 "owner": "koral--",
                 "repo": "android-gif-drawable",
-                "stars": 9643,
+                "stars": 9642,
                 "topics": [
                   "android",
                   "animated-gifs",
@@ -559,7 +559,7 @@
                 "open_issues": 94,
                 "owner": "jnordberg",
                 "repo": "gif.js",
-                "stars": 4983,
+                "stars": 4982,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:29:36.240Z",
+    "last_updated": "2026-11-06T19:52:59.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
@@ -841,10 +841,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-19T09:47:56Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "davisonio",
       "repo": "awesome-gif",
-      "stars": 703,
+      "stars": 702,
       "topics": [
         "awesome",
         "awesome-list",
