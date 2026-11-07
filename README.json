@@ -313,7 +313,7 @@
                 "open_issues": 2,
                 "owner": "XamlAnimatedGif",
                 "repo": "WpfAnimatedGif",
-                "stars": 683,
+                "stars": 682,
                 "topics": [
                   "animated",
                   "gif",
@@ -762,7 +762,7 @@
                 "open_issues": 82,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7940,
+                "stars": 7939,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:52:59.307Z",
+    "last_updated": "2026-11-07T17:57:35.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",

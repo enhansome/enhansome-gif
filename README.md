@@ -64,7 +64,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 <h3 id="c-sharp">C#</h3>
 
-* [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) ⭐ 683 | 🐛 2 | 🌐 C# | 📅 2023-05-11 - A simple library to display animated GIF images in WPF.
+* [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) ⭐ 682 | 🐛 2 | 🌐 C# | 📅 2023-05-11 - A simple library to display animated GIF images in WPF.
 * [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif) ⭐ 472 | 🐛 7 | 🌐 C# | 📅 2026-06-25 - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
 * [AnimatedGif](https://github.com/mrousavy/AnimatedGif) ⭐ 156 | 🐛 17 | 🌐 C# | 📅 2024-04-15 - A high performance .NET library for reading and creating animated GIFs.
 * [dot-screencap](https://github.com/Speiser/dot-screencap) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2017-11-20 - A simple library to record your screen and save it as animated GIF.
@@ -97,7 +97,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Objective-C
 
-* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,940 | 🐛 82 | 🌐 Objective-C | 📅 2024-03-21 - GIF engine for iOS by FlipBoard.
+* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,939 | 🐛 82 | 🌐 Objective-C | 📅 2024-03-21 - GIF engine for iOS by FlipBoard.
 
 ### Swift
 
@@ -295,7 +295,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 205,755 | 🐛 2,770 | 🌐 Python | 📅 2026-11-04
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 205,968 | 🐛 2,770 | 🌐 Python | 📅 2026-11-04
 
 ## Miscellaneous
 
@@ -312,8 +312,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 532,343 | 🐛 103 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 533,046 | 🐛 103 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
