@@ -44,11 +44,11 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Utilities
 
-* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,701 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
+* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,703 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
 * [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,782 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Capture animations created with HTML5 canvas.
 * [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,456 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
 * [Screengif](https://github.com/dergachev/screengif) ⭐ 1,306 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
-* [Gifify](https://github.com/jclem/gifify) ⭐ 1,138 | 🐛 7 | 🌐 Shell | 📅 2024-02-13 - Convert screen recording into GIF.
+* [Gifify](https://github.com/jclem/gifify) ⭐ 1,137 | 🐛 7 | 🌐 Shell | 📅 2024-02-13 - Convert screen recording into GIF.
 * [Gifgen](https://github.com/lukechilds/gifgen) ⭐ 567 | 🐛 2 | 🌐 Shell | 📅 2023-01-22 - Simple high quality GIF encoding.
 * [Tty2gif](https://github.com/z24/tty2gif) ⭐ 160 | 🐛 3 | 🌐 C++ | 📅 2023-05-07 - Record scripts and their outputs into both binary and GIF formats.
 * [Gifit](https://github.com/takempf/GIFit) ⭐ 138 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-24 - Chrome extension to make a GIF from a YouTube video.
@@ -60,7 +60,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ### C++
 
 * [Gif-h](https://github.com/charlietangora/gif-h) ⭐ 546 | 🐛 7 | 🌐 C | 📅 2026-09-18 - C++ one-header library for the creation of animated GIFs.
-* [msf\_gif](https://github.com/notnullnotvoid/msf_gif) ⭐ 240 | 🐛 2 | 🌐 C | 📅 2025-09-10 - C/C++ single-header library for creating animated GIFs.
+* [msf\_gif](https://github.com/notnullnotvoid/msf_gif) ⭐ 241 | 🐛 2 | 🌐 C | 📅 2025-09-10 - C/C++ single-header library for creating animated GIFs.
 
 <h3 id="c-sharp">C#</h3>
 
@@ -75,7 +75,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Java
 
-* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,644 | 🐛 32 | 🌐 Java | 📅 2026-11-06 - Views and Drawable for displaying animated GIFs on Android.
+* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,643 | 🐛 32 | 🌐 Java | 📅 2026-11-06 - Views and Drawable for displaying animated GIFs on Android.
 * [GifImageView](https://github.com/felipecsl/GifImageView) ⭐ 1,168 | 🐛 11 | 🌐 Kotlin | 📅 2023-04-03 - Android ImageView that handles animated GIF images.
 * [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) ⚠️ Archived - Animated GIF encoder for Android.
 * [Gif-animation](https://github.com/extrapixel/gif-animation) ⭐ 178 | 🐛 11 | 🌐 Java | 📅 2021-10-06 - Processing library to play and export GIF.
@@ -295,7 +295,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 206,697 | 🐛 2,777 | 🌐 Python | 📅 2026-11-04
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 206,941 | 🐛 2,780 | 🌐 Python | 📅 2026-11-04
 
 ## Miscellaneous
 
@@ -312,8 +312,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 534,792 | 🐛 103 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 535,265 | 🐛 103 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
