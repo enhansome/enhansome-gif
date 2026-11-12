@@ -44,7 +44,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Utilities
 
-* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,703 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
+* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,704 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
 * [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,782 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Capture animations created with HTML5 canvas.
 * [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,456 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
 * [Screengif](https://github.com/dergachev/screengif) ⭐ 1,306 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
@@ -65,7 +65,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 <h3 id="c-sharp">C#</h3>
 
 * [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) ⭐ 682 | 🐛 2 | 🌐 C# | 📅 2023-05-11 - A simple library to display animated GIF images in WPF.
-* [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif) ⭐ 472 | 🐛 7 | 🌐 C# | 📅 2026-06-25 - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
+* [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif) ⭐ 473 | 🐛 7 | 🌐 C# | 📅 2026-06-25 - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
 * [AnimatedGif](https://github.com/mrousavy/AnimatedGif) ⭐ 156 | 🐛 17 | 🌐 C# | 📅 2024-04-15 - A high performance .NET library for reading and creating animated GIFs.
 * [dot-screencap](https://github.com/Speiser/dot-screencap) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2017-11-20 - A simple library to record your screen and save it as animated GIF.
 
@@ -295,7 +295,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 206,941 | 🐛 2,780 | 🌐 Python | 📅 2026-11-04
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 207,267 | 🐛 2,785 | 🌐 Python | 📅 2026-11-04
 
 ## Miscellaneous
 
@@ -312,8 +312,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 535,265 | 🐛 103 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 535,876 | 🐛 103 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

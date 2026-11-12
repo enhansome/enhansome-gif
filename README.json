@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5703,
+            "stars": 5704,
             "topics": [
               "gif",
               "gif-animation",
@@ -339,7 +339,7 @@
                 "open_issues": 7,
                 "owner": "XamlAnimatedGif",
                 "repo": "XamlAnimatedGif",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T20:01:57.702Z",
+    "last_updated": "2026-11-12T20:40:38.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
@@ -844,7 +844,7 @@
       "open_issues": 15,
       "owner": "davisonio",
       "repo": "awesome-gif",
-      "stars": 702,
+      "stars": 703,
       "topics": [
         "awesome",
         "awesome-list",
