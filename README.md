@@ -44,14 +44,14 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Utilities
 
-* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,707 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
+* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,708 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - High-quality GIF encoder based on libimagequant.
 * [Ccapture.js](https://github.com/spite/ccapture.js) ⭐ 3,782 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Capture animations created with HTML5 canvas.
 * [Gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,456 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 - Open-source, Haskell-built editor for GIF makers.
 * [Screengif](https://github.com/dergachev/screengif) ⭐ 1,305 | 🐛 16 | 🌐 Ruby | 📅 2020-07-31 - Create animated GIF screencasts.
 * [Gifify](https://github.com/jclem/gifify) ⭐ 1,137 | 🐛 7 | 🌐 Shell | 📅 2024-02-13 - Convert screen recording into GIF.
 * [Gifgen](https://github.com/lukechilds/gifgen) ⭐ 567 | 🐛 2 | 🌐 Shell | 📅 2023-01-22 - Simple high quality GIF encoding.
 * [Tty2gif](https://github.com/z24/tty2gif) ⭐ 160 | 🐛 3 | 🌐 C++ | 📅 2023-05-07 - Record scripts and their outputs into both binary and GIF formats.
-* [Gifit](https://github.com/takempf/GIFit) ⭐ 138 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-24 - Chrome extension to make a GIF from a YouTube video.
+* [Gifit](https://github.com/takempf/GIFit) ⭐ 139 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-24 - Chrome extension to make a GIF from a YouTube video.
 * [Gifline](https://github.com/zehfernandes/gifline) ⭐ 67 | 🐛 0 | 🌐 JavaScript | 📅 2019-06-05 - Chrome extension to put GIFs in your emails.
 * [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
 
@@ -295,7 +295,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 207,538 | 🐛 2,786 | 🌐 Python | 📅 2026-11-04
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 207,790 | 🐛 2,789 | 🌐 Python | 📅 2026-11-04
 
 ## Miscellaneous
 
@@ -312,8 +312,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 536,384 | 🐛 104 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 536,841 | 🐛 104 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
