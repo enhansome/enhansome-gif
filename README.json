@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "ImageOptim",
             "repo": "gifski",
-            "stars": 5710,
+            "stars": 5711,
             "topics": [
               "gif",
               "gif-animation",
@@ -313,7 +313,7 @@
                 "open_issues": 2,
                 "owner": "XamlAnimatedGif",
                 "repo": "WpfAnimatedGif",
-                "stars": 682,
+                "stars": 683,
                 "topics": [
                   "animated",
                   "gif",
@@ -510,7 +510,7 @@
                 "open_issues": 7,
                 "owner": "nbadal",
                 "repo": "android-gif-encoder",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -559,7 +559,7 @@
                 "open_issues": 94,
                 "owner": "jnordberg",
                 "repo": "gif.js",
-                "stars": 4983,
+                "stars": 4984,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:16:16.623Z",
+    "last_updated": "2026-11-16T22:46:21.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
