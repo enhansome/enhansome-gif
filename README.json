@@ -268,7 +268,7 @@
                 "open_issues": 7,
                 "owner": "charlietangora",
                 "repo": "gif-h",
-                "stars": 546,
+                "stars": 547,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -713,7 +713,7 @@
                 "open_issues": 21,
                 "owner": "Sybio",
                 "repo": "GifCreator",
-                "stars": 326,
+                "stars": 325,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:55:46.366Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:46:21.766Z",
+    "last_updated": "2026-11-17T21:32:17.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
@@ -841,7 +841,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-19T09:47:56Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "davisonio",
       "repo": "awesome-gif",
       "stars": 703,

@@ -59,7 +59,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### C++
 
-* [Gif-h](https://github.com/charlietangora/gif-h) ⭐ 546 | 🐛 7 | 🌐 C | 📅 2026-09-18 - C++ one-header library for the creation of animated GIFs.
+* [Gif-h](https://github.com/charlietangora/gif-h) ⭐ 547 | 🐛 7 | 🌐 C | 📅 2026-09-18 - C++ one-header library for the creation of animated GIFs.
 * [msf\_gif](https://github.com/notnullnotvoid/msf_gif) ⭐ 241 | 🐛 2 | 🌐 C | 📅 2025-09-10 - C/C++ single-header library for creating animated GIFs.
 
 <h3 id="c-sharp">C#</h3>
@@ -92,7 +92,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### PHP
 
-* [GifCreator](https://github.com/Sybio/GifCreator) ⭐ 326 | 🐛 21 | 🌐 PHP | 📅 2021-09-18 - PHP class that creates animated GIF from multiple images.
+* [GifCreator](https://github.com/Sybio/GifCreator) ⭐ 325 | 🐛 21 | 🌐 PHP | 📅 2021-09-18 - PHP class that creates animated GIF from multiple images.
 * [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) ⭐ 178 | 🐛 9 | 🌐 PHP | 📅 2022-07-23 - PHP class that separates all the frames of an animated GIF.
 
 ### Objective-C
@@ -295,7 +295,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 208,406 | 🐛 2,793 | 🌐 Python | 📅 2026-11-16
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 208,663 | 🐛 2,791 | 🌐 Python | 📅 2026-11-17
 
 ## Miscellaneous
 
@@ -312,8 +312,8 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 537,975 | 🐛 104 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 538,492 | 🐛 104 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
