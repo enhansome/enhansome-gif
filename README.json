@@ -454,7 +454,7 @@
                 "id": 7905539,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T08:53:18Z",
+                "last_commit": "2026-11-20T08:59:32Z",
                 "open_issues": 32,
                 "owner": "koral--",
                 "repo": "android-gif-drawable",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:13:12.184Z",
+    "last_updated": "2026-11-20T20:57:11.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GIF resources.",
