@@ -75,14 +75,14 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Java
 
-* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,641 | 🐛 32 | 🌐 Java | 📅 2026-11-20 - Views and Drawable for displaying animated GIFs on Android.
+* [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) ⭐ 9,642 | 🐛 32 | 🌐 Java | 📅 2026-11-20 - Views and Drawable for displaying animated GIFs on Android.
 * [GifImageView](https://github.com/felipecsl/GifImageView) ⭐ 1,167 | 🐛 11 | 🌐 Kotlin | 📅 2023-04-03 - Android ImageView that handles animated GIF images.
 * [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) ⚠️ Archived - Animated GIF encoder for Android.
 * [Gif-animation](https://github.com/extrapixel/gif-animation) ⭐ 178 | 🐛 11 | 🌐 Java | 📅 2021-10-06 - Processing library to play and export GIF.
 
 ### JavaScript
 
-* [Gif.js](https://github.com/jnordberg/gif.js) ⭐ 4,983 | 🐛 94 | 🌐 JavaScript | 📅 2023-10-06 - Create GIF from the DOM.
+* [Gif.js](https://github.com/jnordberg/gif.js) ⭐ 4,984 | 🐛 94 | 🌐 JavaScript | 📅 2023-10-06 - Create GIF from the DOM.
 * [Gifffer](https://github.com/krasimir/gifffer) ⭐ 778 | 🐛 13 | 🌐 JavaScript | 📅 2019-08-30 - JavaScript library that prevents the autoplaying of the animated GIFs.
 * [Omggif](https://github.com/deanm/omggif) ⭐ 742 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-31 - GIF 89a encoder and decoder.
 * [Gifencoder](https://github.com/eugeneware/gifencoder) ⭐ 473 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-31 - Server side animated GIF generation for Node.js.
@@ -101,7 +101,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Swift
 
-* [Gifu](https://github.com/kaishin/gifu) ⭐ 3,206 | 🐛 28 | 🌐 Swift | 📅 2025-08-17 - Animated GIF support for iOS in Swift.
+* [Gifu](https://github.com/kaishin/gifu) ⭐ 3,207 | 🐛 28 | 🌐 Swift | 📅 2025-08-17 - Animated GIF support for iOS in Swift.
 * [SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif) ⭐ 2,281 | 🐛 10 | 🌐 Swift | 📅 2024-12-18 - High performance & easy to use Gif engine.
 
 ## GUI
@@ -295,7 +295,7 @@ selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 210,216 | 🐛 2,787 | 🌐 Python | 📅 2026-11-23
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 210,449 | 🐛 2,789 | 🌐 Python | 📅 2026-11-24
 
 ## Miscellaneous
 
@@ -312,7 +312,7 @@ The best ways to use this list are:
 
 By [Craig Davison](https://davison.io) and contributors.
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 541,669 | 🐛 103 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) ⭐ 542,301 | 🐛 103 | 📅 2026-09-02 by [Ismail Baaj](https://ismailbaaj.fr).
 
 ***
 
